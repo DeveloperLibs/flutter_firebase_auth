@@ -1,0 +1,32 @@
+name: flutter_firebase_auth
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: "^0.11.3+17"
+  firebase_auth: 0.6.2+1
+  google_sign_in: ^3.2.1
+  fluttertoast: ^2.0.7
+  flutter_svg: ^0.6.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+       - assets/email.svg
+       - assets/gmail.svg
+       - assets/smartphone.svg
+
+

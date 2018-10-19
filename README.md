@@ -1,4 +1,6 @@
-# [www.developerlibs.com](https://www.developerlibs.com)Flutter – Login and registration authentication with Firebase. [Read me here](https://www.developerlibs.com/2018/10/flutter-login-registration-authentication-firebase.html)
+# [www.developerlibs.com](https://www.developerlibs.com)
+
+Flutter – Login and registration authentication with Firebase. [Read me here](https://www.developerlibs.com/2018/10/flutter-login-registration-authentication-firebase.html)
 
 [YouTube](https://youtu.be/dt4HlORuT7Q&t=8s) ,
 [Facebook](https://www.facebook.com/developerlibs), 

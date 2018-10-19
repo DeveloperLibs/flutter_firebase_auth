@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primaryColor: const Color(0xFF02BB9F),
         primaryColorDark: const Color(0xFF167F67),
-        accentColor: const Color(0xFFFFFFFF),
+        accentColor: const Color(0xFF167F67),
       ),
       debugShowCheckedModeBanner: false,
       title: 'Firebase',

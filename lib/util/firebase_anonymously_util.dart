@@ -21,12 +21,14 @@ class FirebaseAnonymouslyUtil {
   }
 
   Future<FirebaseUser> signIn(String email, String password) async {
+
     FirebaseUser user = await _firebaseAuth.signInWithEmailAndPassword(
         email: email, password: password);
     return user;
   }
 
   Future<String> createUser(String email, String password) async {
+
     FirebaseUser user = await _firebaseAuth.createUserWithEmailAndPassword(
         email: email, password: password);
 

@@ -10,4 +10,5 @@ Flutter – Login and registration authentication with Firebase. [Read me here](
 
 [Join us on Slack](https://join.slack.com/t/developerlibs/shared_invite/enQtNDU1NzQzNTM5MDYwLTk0Mjc2MWQwNGExNDdiZWQ5MzJlYTVhZGQzMTRiOTcwODVmOGNmMWM5NTZkYWIxNDExNWM0NWMzZjBhODRmNDg)
 
-(https://github.com/DeveloperLibs/flutter_firebase_auth/blob/master/screen/firebase_auth_gif.gif)
+![ScreenShot](https://github.com/DeveloperLibs/flutter_firebase_auth/blob/master/screen/firebase_auth_gif.gif)
+
